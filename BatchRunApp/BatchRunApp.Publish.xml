@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\stalabathula\Documents\Visual Studio 2010\Projects\BatchRunApp\publish" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="Default Web Site/BatchRunApp" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="False" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="01/28/2012 19:55:40" />
+    <file relUrl="Site.Master" publishTime="01/27/2012 12:37:18" />
+    <file relUrl="Account/Web.config" publishTime="01/27/2012 11:05:09" />
+    <file relUrl="Account/Register.aspx" publishTime="01/27/2012 11:05:09" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="01/27/2012 11:05:09" />
+    <file relUrl="Account/Login.aspx" publishTime="01/27/2012 11:05:09" />
+    <file relUrl="Styles/Site.css" publishTime="01/27/2012 11:05:09" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="01/27/2012 11:05:09" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="01/27/2012 11:05:08" />
+    <file relUrl="Global.asax" publishTime="01/27/2012 11:05:09" />
+    <file relUrl="bin/BatchRunApp.dll" publishTime="01/28/2012 19:55:29" />
+    <file relUrl="bin/BatchRunApp.pdb" publishTime="01/28/2012 19:55:29" />
+    <file relUrl="About.aspx" publishTime="01/27/2012 11:05:09" />
+    <file relUrl="Default.aspx" publishTime="01/28/2012 19:52:30" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="01/27/2012 11:05:09" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="01/27/2012 11:05:09" />
+  </publishProfile>
+</publishData>
